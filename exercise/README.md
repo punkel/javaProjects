@@ -8,6 +8,7 @@ Exercise: You get an array of numbers. Give an array back whitout doubles.
 After test:
 - correct syntacs mistakes
 - write a main function
+
 Durration: ~20min
 
 ### palindrom
@@ -17,4 +18,5 @@ After test:
 - write a main function
 - correct logic fail   while(i>j && ret) to while(i<=j && ret)
 - use correct function: charAt()
+
 Durration: ~40min
